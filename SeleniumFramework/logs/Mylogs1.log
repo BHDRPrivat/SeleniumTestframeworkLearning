@@ -1,0 +1,17 @@
+[INFO ] 2020-04-15 08:33:56.647 [main] Log4jDemo - Das ist eine Information
+[ERROR] 2020-04-15 08:33:56.649 [main] Log4jDemo - Das ist eine Fehler
+[WARN ] 2020-04-15 08:33:56.649 [main] Log4jDemo - Das ist eine Warnung
+[FATAL] 2020-04-15 08:33:56.649 [main] Log4jDemo - Das ist ein fataler Fehler
+[INFO ] 2020-04-15 08:34:04.891 [main] Log4jDemo - Das ist eine Information
+[ERROR] 2020-04-15 08:34:04.893 [main] Log4jDemo - Das ist eine Fehler
+[WARN ] 2020-04-15 08:34:04.893 [main] Log4jDemo - Das ist eine Warnung
+[FATAL] 2020-04-15 08:34:04.893 [main] Log4jDemo - Das ist ein fataler Fehler
+[INFO ] 2020-04-15 08:35:56.649 [main] Log4jDemo - Das ist eine Information
+[ERROR] 2020-04-15 08:35:56.652 [main] Log4jDemo - Das ist eine Fehler
+[WARN ] 2020-04-15 08:35:56.653 [main] Log4jDemo - Das ist eine Warnung
+[FATAL] 2020-04-15 08:35:56.653 [main] Log4jDemo - Das ist ein fataler Fehler
+[TRACE] 2020-04-15 08:36:22.929 [main] Log4jDemo - Das ist eine Spur
+[INFO ] 2020-04-15 08:36:22.931 [main] Log4jDemo - Das ist eine Information
+[ERROR] 2020-04-15 08:36:22.931 [main] Log4jDemo - Das ist eine Fehler
+[WARN ] 2020-04-15 08:36:22.932 [main] Log4jDemo - Das ist eine Warnung
+[FATAL] 2020-04-15 08:36:22.932 [main] Log4jDemo - Das ist ein fataler Fehler
