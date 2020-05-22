@@ -47,7 +47,9 @@ public class ExcelDataProvider {
 
 	@DataProvider(name = "testData1")
 	public static Object[][] getData() {
-		String excelPath = "D:\\BHDR-Daten\\workspace\\SeleniumFramework\\Excel\\Data.xlsx";
+		// Ermittelt den Pfad des aktuellen Projekts
+		String projectpath = System.getProperty("user.dir");
+		String excelPath = projectpath + "\\Excel\\Data.xlsx";
 		Object testData[][] = testData(excelPath, "Tabelle1");
 		return testData;
 	}

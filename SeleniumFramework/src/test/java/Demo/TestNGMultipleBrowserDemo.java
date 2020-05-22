@@ -14,7 +14,7 @@ public class TestNGMultipleBrowserDemo {
 	WebDriver driver = null;
 	String projectpath = System.getProperty("user.dir");
 
-	@Parameters("browserName")
+	@Parameters("browserName = chrome")
 
 	@BeforeTest
 	public void setup(String browserName) {

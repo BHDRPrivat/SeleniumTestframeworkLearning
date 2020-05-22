@@ -14,7 +14,7 @@ public class ExcelUtilsDemo {
 
 		excel.getRowCount();
 		excel.getExcelDataString(0, 0);
-		excel.getExcelDataNumber(1, 1);
+		// excel.getExcelDataNumber(1, 1);
 
 	}
 

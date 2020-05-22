@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class Test1_GoogleSearch {
 
@@ -11,6 +12,7 @@ public class Test1_GoogleSearch {
 		googleSearch();
 	}
 
+	@Test
 	public static void googleSearch() throws InterruptedException {
 
 		// System.setProperty("webdriver.gecko.driver", projectpath +

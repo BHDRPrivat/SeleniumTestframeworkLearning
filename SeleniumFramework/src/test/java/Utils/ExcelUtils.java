@@ -70,7 +70,7 @@ public class ExcelUtils {
 			// beginnt.
 			cellData = sheet.getRow(rowNum).getCell(colNum).getStringCellValue();
 
-			// System.out.println("String Wert: " + cellData);
+			System.out.println("String Wert: " + cellData);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -89,7 +89,7 @@ public class ExcelUtils {
 			// beginnt.
 			double cellData = sheet.getRow(rowNum).getCell(colNum).getNumericCellValue();
 
-			// System.out.println("String Wert: " + cellData);
+			System.out.println("String Wert: " + cellData);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
