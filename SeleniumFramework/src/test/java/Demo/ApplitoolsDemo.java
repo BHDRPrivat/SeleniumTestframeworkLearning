@@ -45,5 +45,4 @@ public class ApplitoolsDemo {
 
 }
 
-// Testeintrag
-// 2 Eintrag
+// Teständerung im Code
